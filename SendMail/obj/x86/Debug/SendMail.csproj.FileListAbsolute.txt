@@ -1,0 +1,11 @@
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\bin\Debug\SendMail.exe
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\bin\Debug\SendMail.pdb
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\SendMail.Form1.resources
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\SendMail.Properties.Resources.resources
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+D:\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
